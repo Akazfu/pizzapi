@@ -1,3 +1,0 @@
-customer = Customer('Zeeman', 'Fu', 'akazfu@gmail.com', '7807085120', '10904 102AVE NW 1207, EDMONTON, AB, T5K2Y3'
-)
-
